@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Toast, Snackbar, DIalog</string>
+    <string name="cancelable_dialog_text">Cancelable Dialog</string>
+    <string name="custom_dialog_text">Custom Dialog</string>
+    <string name="selamat_datang_text">Selamat Datang!</string>
+    <string name="ok_text">Ok</string>
+    <string name="action_dialog_text">Action Dialog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama_kamu_text">Nama Kamu</string>
+    <string name="tutup_text">Tutup!</string>
+    <string name="fragment_dialog_text">Fragment Dialog</string>
+    <string name="alert_text">Alert!</string>
+    <string name="akhirnya_kamu_telah_mendapatkan_nama_baru_nama_kamu_adalah_text">Akhirnya Kamu telah mendapatkan nama baru, nama kamu adalah :</string>
+</resources>
