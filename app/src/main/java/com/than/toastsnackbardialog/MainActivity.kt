@@ -58,6 +58,8 @@ class MainActivity : AppCompatActivity() {
             }
             dialog.show()
         }
+        
+        //fragment dialog
 
         binding.btnFragmentDialog.setOnClickListener {
             val dialogFragment = CobaDialogFragment("Sulthan")
